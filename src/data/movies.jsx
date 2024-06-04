@@ -1,4 +1,4 @@
-const movies = [
+const Movies = [
   {
     title: "Avatar",
     year: "2009",
@@ -177,4 +177,4 @@ const movies = [
   },
 ];
 
-export default movies;
+export default Movies
